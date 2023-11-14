@@ -1,6 +1,6 @@
 import streamlit as st
 # import necessary components from cloned repository
-
+from lama_cleaner import entry_point
 
 def main():
     st.header("Lama Cleaner")
